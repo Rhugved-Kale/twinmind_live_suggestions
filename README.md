@@ -8,7 +8,7 @@ Built as a TwinMind engineering assignment.
 
 ## Live Demo
 
-Vercel URL: 
+Vercel URL: https://twinmind-live-suggestions-chi.vercel.app/
 
 ---
 
